@@ -12,7 +12,7 @@ app.use(cors());
 app.post('/bfhl', (req, res) => {
     const { data } = req.body;
 
-    const user_id = "Samarth_Jangir_13_08_2003"; 
+    const user_id = "Samarth_Jangir_13_08_2003";
     const email = "samarth.jangir2021@vitbhopal.ac.in";
     const roll_number = "21BCE10889"; 
 
